@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.8.28)  17 OCT 2018 13:55
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.8.28)  17 OCT 2018 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1448,8 +1448,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/sl' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 6
-9.
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 7
+6.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1465,12 +1465,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18239 strings out of 492970
- 398861 string characters out of 6133938
- 470164 words of memory out of 5000000
- 22054 multiletter control sequences out of 15000+600000
- 533377 words of font info for 55 fonts, out of 8000000 for 9000
+ 18252 strings out of 492970
+ 399677 string characters out of 6133938
+ 471164 words of memory out of 5000000
+ 22066 multiletter control sequences out of 15000+600000
+ 533385 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 53i,11n,67p,10428b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,11n,67p,10428b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (1 page).

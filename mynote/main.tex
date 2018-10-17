@@ -66,6 +66,12 @@ L(\theta, \phi; x^{(i)})
 &= -D_{KL}(q_{\phi}(z | x^{(i)}) || p_\theta (z)) + E_{q_{\phi}(z | x^{(i)})}[\log p_\theta (x^{(i)} | z) ]
 \end{align*}
 
+由于KL距离为非负，则
+\begin{align*}
+p_\theta (x^{(i)}) 
+&\geq L(\theta, \phi; x^{(i)})\\
+&= -D_{KL}(q_{\phi}(z | x^{(i)}) || p_\theta (z)) + E_{q_{\phi}(z | x^{(i)})}[\log p_\theta (x^{(i)} | z) ]
+\end{align*}
 \end{document}
 
 
