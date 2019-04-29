@@ -48,7 +48,7 @@
 
 \section{变分自编码器推导}
 \begin{align*}
-p_\theta (x^{(i)})
+\log p_\theta (x^{(i)})
 &=\log p_\theta (x^{(i)}) \int_z q_{\phi}  (z | x^{(i)}) dz\\
 &=  \int_z q_{\phi}  (z | x^{(i)}) \log \frac{p_\theta (x^{(i)}) p_{\theta}  (z | x^{(i)}) q_{\phi}  (z | x^{(i)})}{q_{\phi}  (z | x^{(i)}) p_{\theta}  (z | x^{(i)})} dz\\
 &=  \int_z q_{\phi}  (z | x^{(i)}) \log \frac{p_\theta (x^{(i)}) p_{\theta}  (z | x^{(i)}) q_{\phi}  (z | x^{(i)})}{q_{\phi}  (z | x^{(i)}) p_{\theta}  (z | x^{(i)})} dz\\
